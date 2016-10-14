@@ -1,0 +1,10 @@
+{
+	"plugins": ["plugins/replacer.js", "plugins/examples.js"],
+	"opts": {
+		"template": "node_modules/docdash"
+	},
+	"docdash": {
+		"static": true,
+		"sort": false
+	}
+}
