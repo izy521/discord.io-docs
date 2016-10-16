@@ -1,7 +1,7 @@
 {
   "name": "discord.io-docs",
   "version": "0.0.1",
-  "description": "JSDoc for discord.io",
+  "description": "Documentation using JSDoc for discord.io",
   "main": "build.js",
   "directories": {
     "doc": "docs"
