@@ -15,7 +15,8 @@
     "url": "git+https://github.com/izy521/discord.io-docs.git"
   },
   "keywords": [
-    "discord.io"
+    "discord.io",
+	"docs"
   ],
   "author": "izy521",
   "license": "MIT",
